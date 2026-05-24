@@ -12,4 +12,5 @@ This repository contains the final project developed for the **Design of Intelli
 * SimpleAI
 * NumPy & Scikit-Image
 * Plotly (Interactive HTML 3D Plots) & Matplotlib
+
 To get the mars_map.IMG file, use the following link: ```https://tecmx-my.sharepoint.com/:u:/g/personal/a01661235_tec_mx/IQC0RWDWtmLwRLmW5d7hvbKNAS5DmoMoW-lPkQTBO0ykf7A?e=13wSTw```
